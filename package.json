@@ -1,0 +1,14 @@
+{
+  "name": "rpg-battle",
+  "version": "1.0.0",
+  "description": "RPG персонажи и поединки",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "eslint-plugin-jest": "^29.15.2",
+    "jest": "^29.0.0"
+  }
+}
